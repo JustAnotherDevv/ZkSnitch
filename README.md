@@ -4,7 +4,12 @@ Decentralized whistleblower platform using encryption with Secret Network, EthSc
 
 ## Features
 
-ToDo
+- Listing registered orgsnizations and their details + public submissions
+- Creating new organizations and joining them
+- Sharing end-to-end encrypted files between organization owner and submitter without showcasing identity of submitter
+- Sending notificationsc about the actions taken on the platform
+
+Deployed `WhistleBlower.sol` smart contract on Polygon `0x299e0e655788bdFA5b5f3C15AdD276FEE47AE2c7`
 
 ## Setup
 
